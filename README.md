@@ -18,7 +18,7 @@ Here are the foundational languages and tools I am working with as I build my AI
 ![Python](https://shields.io)
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
-![Markdown](https://shields.io)
+
 
 ---
 
